@@ -1,0 +1,7 @@
+{
+    "name":"Pynecone",
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "remoteEnv": {
+      "PATH": "/home/codespace/.local/lib/python3.10/site-packages/bin/:$PATH"
+   }
+}
